@@ -18,7 +18,7 @@ oracle-plsql/
 │   ├── setup/
 │   │   ├── 01_create_tables.sql
 │   │   ├── 02_insert_sample_data.sql
-│   │   └── 03_reset_lab.sql
+│   │   └── 03_reset_lab.sql (comming soon)
 │   │
 │   ├── pivot/
 │   │   └── pivot_examples.sql
