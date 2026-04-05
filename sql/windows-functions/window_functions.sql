@@ -1,0 +1,5 @@
+-- ============================================
+-- Topic: Window Functions
+-- Description: Demonstrate ROW_NUMBER, RANK, and DENSE_RANK with partitioning
+-- Author: Gilberto
+-- ============================================

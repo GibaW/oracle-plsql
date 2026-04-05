@@ -1,0 +1,6 @@
+-- ============================================
+-- Topic: PIVOT
+-- Description: Transform row-based data into columns for reporting
+--              Convert monthly sales rows into columns using Oracle PIVOT
+-- Author: GW
+-- ============================================

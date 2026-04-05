@@ -1,0 +1,5 @@
+-- ============================================
+-- Topic: FORALL
+-- Description: Perform bulk DML operations using collections to improve performance
+-- Author: Gilberto
+-- ============================================

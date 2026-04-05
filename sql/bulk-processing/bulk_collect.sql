@@ -1,0 +1,5 @@
+-- ============================================
+-- Topic: BULK COLLECT
+-- Description: Retrieve multiple rows into PL/SQL collections in a single operation
+-- Author: Gilberto
+-- ============================================

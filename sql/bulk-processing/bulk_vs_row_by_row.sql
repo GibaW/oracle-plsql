@@ -1,0 +1,5 @@
+-- ============================================
+-- Topic: BULK COLLECT / FORALL
+-- Description: Compare row-by-row processing with bulk operations for performance
+-- Author: Gilberto
+-- ============================================
