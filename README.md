@@ -30,7 +30,7 @@ oracle-plsql/
 │   │   ├── bulk_collect.sql
 │   │   ├── forall.sql
 │   │   └── bulk_vs_row_by_row.sql
-│   |── Tuning
+│   |── tuning
 ├── docs/
 │   ├── pivot.md
 │   ├── window-functions.md

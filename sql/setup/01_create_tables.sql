@@ -1,7 +1,7 @@
 -- ============================================
 -- Topic: LAB SETUP
 -- Description: Create base tables for Oracle PL/SQL laboratory
--- Author: GW - 05/27/2025
+-- Author: GW
 -- ============================================
 
 CREATE TABLE departments (
